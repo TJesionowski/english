@@ -1,7 +1,7 @@
 # Template meta programming
 
-If you ever got in touch with *template meta programming*
-in C++ you will be relieved what tools D offers to make
+If you ever worked with *template meta programming*
+in C++ you will be relieved to see the tools D offers to make
 your life easier. Template meta programming is a technique
 that enables decision-making depending on template type properties
 and thus allows to make generic types even more flexible
